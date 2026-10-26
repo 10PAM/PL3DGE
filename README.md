@@ -6,6 +6,6 @@ PL3DGE is a general multipurpose 3D game engine made to be "lightweight" like it
 
 # Features
 - Programmed in C++
-- Graphics API: Vulkan
+- Graphics API: OpenGL
 - Audio API: OpenAL (Open Audio Library)
 - CMAKE
