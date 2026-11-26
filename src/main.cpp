@@ -9,6 +9,8 @@
 #define numVAOs 1
 #define numVBOs 2
 
+// Testing
+
 // Camera Properties
 float cameraX, cameraY, cameraZ;
 float cubeLocX, cubeLocY, cubeLocZ;
