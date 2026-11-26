@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PL3DGE (Piceno's Lightweight 3D Game Engine)
 <img width="250" height="250" alt="PL3DGE_Icon" src="https://github.com/user-attachments/assets/b7a03cda-573e-457c-9f6d-c9d702ce7f02" />
 
@@ -9,3 +10,6 @@ Programmed in C++
 Graphics API: OpenGL  
 Audio API: OpenAL (Open Audio Library)  
 CMAKE  
+=======
+# PL3DGE
+>>>>>>> e6a3e94 (Add .gitattributes, .gitignore, and README.md.)
